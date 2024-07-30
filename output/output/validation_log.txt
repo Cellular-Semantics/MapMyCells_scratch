@@ -1,0 +1,7 @@
+9.99351e-02 seconds == WARNING: Not all of your gene identifiers were EnsemblID; 0 were mapped to EnsemblID; 85 could not be mapped to EnsemblID
+2.15604e+00 seconds == VALIDATION: copyied /bkp/bkp-data/CDM/input/anonymous/1695922666661-d3fb757e-6e36-44af-a5ad-fd661cb4c84a/MGE_patch_seq.h5ad to /bkp/bkp-data/CDM/input/anonymous/1695922666661-d3fb757e-6e36-44af-a5ad-fd661cb4c84a/MGE_patch_seq_20230928173827.validated.h5ad
+2.15606e+00 seconds == VALIDATION: modifying var dataframe of /bkp/bkp-data/CDM/input/anonymous/1695922666661-d3fb757e-6e36-44af-a5ad-fd661cb4c84a/MGE_patch_seq.h5ad to include proper gene identifiers
+5.91783e+01 seconds == DONE VALIDATING /bkp/bkp-data/CDM/input/anonymous/1695922666661-d3fb757e-6e36-44af-a5ad-fd661cb4c84a/MGE_patch_seq.h5ad; reformatted file written to /bkp/bkp-data/CDM/input/anonymous/1695922666661-d3fb757e-6e36-44af-a5ad-fd661cb4c84a/MGE_patch_seq_20230928173827.validated.h5ad
+
+5.91917e+01 seconds == CLEANING UP
+6.07146e+01 seconds == Validation run time:  59.20667624473572
